@@ -6,7 +6,7 @@
 > Sustainable Futures is a project aimed at promoting eco-friendly living through innovative products and solutions. It addresses the growing environmental challenges by offering sustainable alternatives, making it easier for individuals to contribute to a greener planet.
 
 ## **Link to Figma File**
-[FIGMA LINK](https://www.figma.com/design/PzL5vrsbvlGssucfQC50II/Sustainable-Futures?node-id=0-1&t=zM6cXSZf32QnmjLi-1)
+[FIGMA LINK](https://www.figma.com/design/Tqe7EOzIl4LFJmJFYkepRT/Wooden-Glass-Sustainable-Futures?node-id=0-1&t=Ow7tNcwtMwBJZkjw-1)
 
 ## **Hosted URL**
 [Live Demo](https://sustainfutures.vercel.app/)
