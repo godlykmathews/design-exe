@@ -1,5 +1,5 @@
 ![Untitled-3](design.png)
-# **[Project Name]**
+# **Sustainale Futures**
 
 
 **DESIGN.EXE designathon 2025**
