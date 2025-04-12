@@ -9,7 +9,7 @@
 [FIGMA LINK](https://www.figma.com/design/PzL5vrsbvlGssucfQC50II/Sustainable-Futures?node-id=0-1&t=zM6cXSZf32QnmjLi-1)
 
 ## **Hosted URL**
-[Live Demo](https://your-hosted-url.com)
+[Live Demo](https://sustainfutures.vercel.app/)
 
 ## **Installation**
 To set up the project locally, follow these steps:
