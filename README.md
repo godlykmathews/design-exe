@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/sustainable-futures.git
+    git clone https://github.com/godlykmathews/design-exe.git
     ```
 2. Navigate to the project directory:
     ```bash
