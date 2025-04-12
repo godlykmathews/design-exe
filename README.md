@@ -1,24 +1,43 @@
 ![Untitled-3](design.png)
-# **Sustainale Futures**
+# **Sustainable Futures**
 
+**DESIGN.EXE Designathon 2025**
 
-**DESIGN.EXE designathon 2025**
+> Sustainable Futures is a project aimed at promoting eco-friendly living through innovative products and solutions. It addresses the growing environmental challenges by offering sustainable alternatives, making it easier for individuals to contribute to a greener planet.
 
-> A short description of your project. Explain what your project does, what problem it solves, and why it's cool.
+## **Link to Figma File**
+[FIGMA LINK](https://www.figma.com/design/PzL5vrsbvlGssucfQC50II/Sustainable-Futures?node-id=0-1&t=zM6cXSZf32QnmjLi-1)
 
-
-## **Link to figma file**
-Add the link here
-
-## **Hosted url**
-Add the link here
+## **Hosted URL**
+[Live Demo](https://your-hosted-url.com)
 
 ## **Installation**
-How on earth can we set up your project up and running?
+To set up the project locally, follow these steps:
 
-## **Steps to run**  
-Care to explain?
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/sustainable-futures.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd sustainable-futures
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+
+## **Steps to Run**
+1. Start the development server:
+    ```bash
+    npm run dev
+    ```
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## **Acknowledgements**
-Give credit to any resources, tutorials, libraries helped you build your project.
-
+- [Tailwind CSS](https://tailwindcss.com/) for styling.
+- [React](https://reactjs.org/) for building the UI.
+- [Lucide React](https://lucide.dev/) for icons.
+- [Unsplash](https://unsplash.com/) for images.
+- Tutorials and guides from the developer community.
+- Special thanks to the DESIGN.EXE team for their support and collaboration.
