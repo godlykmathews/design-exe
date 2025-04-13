@@ -3,6 +3,7 @@
 
 **DESIGN.EXE Designathon 2025**
 
+> A sleek, responsive website showcasing handcrafted wooden glassware made from eco-friendly materials. Designed to highlight product elegance, sustainability values, and seamless user experience through immersive visuals and intuitive navigation.
 > Sustainable Futures is a project aimed at promoting eco-friendly living through innovative products and solutions. It addresses the growing environmental challenges by offering sustainable alternatives, making it easier for individuals to contribute to a greener planet.
 
 ## **Link to Figma File**
